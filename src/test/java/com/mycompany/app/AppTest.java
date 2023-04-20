@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello World from testAppMessage!", app.getMessage());
+        assertEquals("Hello World from ownbranch!", app.getMessage());
     }
 }
